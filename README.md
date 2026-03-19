@@ -1,16 +1,37 @@
-# React + Vite
+# 🎓 KLEIT Admission Chatbot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AI-powered admission guidance chatbot for 
+KLE Institute of Technology, Hubli, Karnataka.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
+- React.js
+- Vite
+- Google Gemini 2.5 Flash API
+- CSS Modules
+- JavaScript
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- Real-time AI responses
+- Multi-turn conversation
+- Quick question buttons
+- Copy to clipboard
+- Google Maps integration
+- Phone dialer integration
+- Markdown rendering
+- Mobile responsive
 
-## React Compiler
+## 🛠️ Setup
+1. Clone the repo
+2. Run npm install
+3. Add your Gemini API key in .env file:
+   VITE_GEMINI_API_KEY=your_key_here
+4. Run npm run dev
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📞 College Contact
+- Phone: 0836 223 2681
+- Website: https://kleit.ac.in
+- Location: Gokul, Hubli, Karnataka
+```
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
